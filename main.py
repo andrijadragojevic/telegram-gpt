@@ -5,7 +5,7 @@ from g4f.client import Client
 import nest_asyncio
 
 nest_asyncio.apply()
-TOKEN: Final = '7044035151:AAFFeV-3FF3x5b1B2SruFFA1kt4n2Qz-FXA'
+TOKEN: Final = ''
 BOT_USERNAME: Final = '@andrija_notification_bot'
 client = Client()
 
